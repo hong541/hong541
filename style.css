@@ -1,0 +1,16 @@
+button {
+    border: black;
+    padding: 20px;
+    font-weight: 800;
+    font-size: 3mm;
+    background-color: rgb(5, 125, 93);
+    color: #333;
+    cursor: pointer;
+}
+button:hover {
+    background-color: aqua;
+    color: black;
+    transform: rotateY('2');
+    transition: all 5.s;
+    
+}
