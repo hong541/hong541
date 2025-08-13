@@ -56,12 +56,10 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 ---
 
 ### 🌐 Languages
-| Language   | Proficiency |
-|------------|-------------|
-| 🇮🇩 Indonesian | **Native** |
-| 🇬🇧 English    | **Intermediate (70%)** |
-| 🇸🇦 Arabic     | **Intermediate (80%)** |
-
+- **Indonesian** 🇮🇩 — ██████████ 100% (Native)
+- **English** 🇬🇧 — ███████░░░ 70% (Intermediate)
+- **Arabic** 🇸🇦 — ██████░░░░ 65% (Intermediate)
+  
 ---
 
 ## 🎓 Education
