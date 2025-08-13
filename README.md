@@ -1,39 +1,65 @@
-# Portfolio Website - Jabar Maulana
+# 👋 Hi, I’m **Jabar Maulana**
 
-This is a full-stack web application built to showcase my skills and projects as a Full Stack Web Developer.
+🚀 **MERN Stack Developer** | 💻 **Frontend & Backend Engineer** | 🌏 **Open to Remote Work**
 
-## Features
+---
 
-- Responsive design using Tailwind CSS
-- Dynamic routing with React Router / Next.js
-- Backend API built with Node.js & Express
-- Data storage with MongoDB
-- Authentication system (JWT or OAuth)
-- Mobile-first design
+## 📌 About Me
+I am a passionate and detail-oriented **MERN Stack Developer** with a strong foundation in building dynamic, scalable, and user-friendly web applications.  
+Currently completing my **Bachelor's Degree in Information Systems** at **Open University Indonesia**.  
+I enjoy transforming ideas into functional digital products, collaborating in teams, and continuously learning new technologies.
 
-## Tech Stack
+---
 
-**Frontend:**  
-- React.js  
-- TailwindCSS  
-- Vite / Next.js  
+## 🛠 Tech Stack
 
-**Backend:**  
-- Node.js  
-- Express.js  
-- MongoDB  
+### 🎨 Frontend
+- **React.js**, **Next.js**
+- **Shadcn/UI**, **Tailwind CSS**, **Vite**
+- **Figma**, **Framer Motion**, **Redux Toolkit**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- **TypeScript**
 
-## Installation
+### ⚙ Backend
+- **Node.js**, **Express.js**
+- **MongoDB**, **Supabase**, **PostgreSQL**
+- **Node Mailer**, **EJS**, **Swagger**
+- **REST API**, **JWT Authentication**
+- **Socket.IO**, **Cloudinary**
 
-```bash
-# Clone the repository
-git clone https://github.com/username/repo-name.git
+### 🤝 Soft Skills
+- **Communication**
+- **Problem Solving**
+- **Team Collaboration**
+- **Time Management**
+- **Adaptability**
 
-# Go to the project folder
-cd repo-name
+---
 
-# Install dependencies
-npm install
+## 🎓 Education
+🎓 **Bachelor's Degree in Information Systems** *(in progress)*  
+📍 **Open University Indonesia**
 
-# Run the app
-npm run dev
+---
+
+## 📍 Location
+📍 **Lampung, Indonesia**  
+🌍 **Open to Remote Work**
+
+---
+
+## 📊 GitHub Stats
+![Jabar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JabarMaulana&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabarMaulana&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+Let’s build something amazing together 🚀
