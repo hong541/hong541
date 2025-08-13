@@ -40,9 +40,11 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💸Payment Gateway
-- **Midtrans**
-- **Xendit**
+### 🔗 API & Payment Integration
+![Midtrans](https://img.shields.io/badge/Midtrans-00B14F?style=for-the-badge&logo=midtrans&logoColor=white)
+![Xendit](https://img.shields.io/badge/Xendit-19305E?style=for-the-badge&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 
 ### 🤝 Soft Skills
 - **Communication**
@@ -50,6 +52,15 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 - **Team Collaboration**
 - **Time Management**
 - **Adaptability**
+
+---
+
+### 🌐 Languages
+| Language   | Proficiency |
+|------------|-------------|
+| 🇮🇩 Indonesian | **Native** |
+| 🇬🇧 English    | **Intermediate (70%)** |
+| 🇸🇦 Arabic     | **Intermediate (80%)** |
 
 ---
 
@@ -67,6 +78,7 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 
 ## 📊 GitHub Stats
 ![Jabar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong541&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=hong541&theme=radical&border_radius=4.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong541&layout=compact&theme=radical)
 
 ---
