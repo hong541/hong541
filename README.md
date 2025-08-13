@@ -19,6 +19,7 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 - **Figma**, **Framer Motion**, **Redux Toolkit**
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**
 - **TypeScript**
+- **Vercel**
 
 ### ⚙ Backend
 - **Node.js**, **Express.js**
@@ -26,6 +27,10 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 - **Node Mailer**, **EJS**, **Swagger**
 - **REST API**, **JWT Authentication**
 - **Socket.IO**, **Cloudinary**
+
+### 💸Payment Gateway
+- **Midtrans**
+- **Xendit**
 
 ### 🤝 Soft Skills
 - **Communication**
@@ -49,15 +54,15 @@ I enjoy transforming ideas into functional digital products, collaborating in te
 ---
 
 ## 📊 GitHub Stats
-![Jabar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JabarMaulana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabarMaulana&layout=compact&theme=radical)
+![Jabar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong541&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong541&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Email:** [jabarmaulana7@gmail.com](mailto:jabarmaulana7@gmail.com)
+- **LinkedIn:** [Jabar Maulana](https://www.linkedin.com/in/jabar-maulana-36778a2ab/)
+- **Portfolio:** [https://hong-portfolio-chi.vercel.app/](https://hong-portfolio-chi.vercel.app/)
 
 ---
 
